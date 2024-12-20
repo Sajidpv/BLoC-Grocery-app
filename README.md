@@ -65,22 +65,9 @@ The BLoC pattern is used to manage the application's state. There are separate B
 
 Screenshots
 
-Product Listing
-
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/Sajidpv/BLoC-Grocery-app/assets/125041012/f4f9b85f-fc6c-4130-89b6-f1fdaff063a7" style="margin-right: 10px;" width="150" />
-</div>
-
-
-Wishlist
-
-<div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/Sajidpv/BLoC-Grocery-app/assets/125041012/852c05cb-0387-496c-98ad-848e6813f08c" style="margin-right: 10px;" width="150" />
-</div>
-
-Shopping Cart
-
-<div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/Sajidpv/BLoC-Grocery-app/assets/125041012/48ffdd45-94c0-4b73-97d4-9c6fec2f4dcf" style="margin-right: 10px;" width="150" />
 </div>
 
